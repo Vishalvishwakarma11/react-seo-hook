@@ -1,0 +1,8 @@
+node_modules
+dist
+src/tests
+*.test.ts
+jest.config.js
+rollup.config.js
+tsconfig.json
+.babelrc

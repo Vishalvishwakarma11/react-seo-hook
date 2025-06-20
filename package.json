@@ -1,0 +1,63 @@
+{
+  "name": "react-seo-hook",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "A React hook for dynamically managing SEO metadata with React Router integration",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "jest",
+    "prepublishOnly": "npm test"
+  },
+  "keywords": [
+    "react",
+    "seo",
+    "hook",
+    "metadata",
+    "react-router"
+  ],
+  "author": "Vishal Vishwakarma <vishal.vish6232@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vishalvishwakarma11/react-seo-hook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vishalvishwakarma11/react-seo-hook/issues"
+  },
+  "homepage": "https://github.com/Vishalvishwakarma11/react-seo-hook#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.26.2"
+  },
+  "dependencies": {
+    "tslib": "^2.8.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "@babel/preset-react": "^7.24.7",
+    "@babel/preset-typescript": "^7.24.7",
+    "@rollup/plugin-babel": "^6.0.4",
+    "@rollup/plugin-commonjs": "^26.0.1",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-typescript": "^11.1.6",
+    "@testing-library/jest-dom": "^6.4.2",
+    "@testing-library/react": "^16.0.0",
+    "@types/jest": "^29.5.12",
+    "@types/react": "^18.3.3",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "rollup": "^4.18.0",
+    "rollup-plugin-dts": "^6.1.1",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "typescript": "^5.5.2"
+  },
+  "files": [
+    "dist"
+  ]
+}
