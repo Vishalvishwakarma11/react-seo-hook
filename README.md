@@ -180,7 +180,7 @@ See the [LICENSE](./LICENSE) file for more details.
 Let’s talk code, React, or SEO!
 
 - GitHub: [@Vishalvishwakarma11](https://github.com/Vishalvishwakarma11)
-- LinkedIn: [Vishal Vishwakarma](https://linkedin.com/in/vishalvishwakarma11)
+- LinkedIn: [Vishal Vishwakarma](https://linkedin.com/in/vishal-vishwakarma-472365215)
 
 ---
 
